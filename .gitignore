@@ -1,0 +1,17 @@
+# Video Files
+*.3gp
+*.avi
+*.flv
+*.m4v
+*.mkv
+*.mp4
+*.MTS
+*.wmv
+# Miscellaneous
+*.bat
+*.code-workspace
+*.exe
+*.json
+*.txt
+# Ignore all folders
+*/*
